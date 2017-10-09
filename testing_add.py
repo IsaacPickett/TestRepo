@@ -15,6 +15,11 @@ def change_stuff(newBranch):
 
 Changing for HotFix
 
+Changing_more_for_new_branch
 
+def square(x):
+    return x**2
+
+Making changes for NewBranch
 
 
